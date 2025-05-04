@@ -1,7 +1,8 @@
 # SmartSensor - Arduino IoT Project
 
 🖼️ Previeew Image
-![Preview Image](Image.png)
+![Preview Image1](Image2.png)
+![Preview Image2](Image.png)
 
 🎥 Demo Video:
 https://youtu.be/QnuIK_kKHOE
