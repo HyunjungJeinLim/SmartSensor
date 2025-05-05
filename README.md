@@ -1,6 +1,6 @@
 # SmartSensor - Arduino IoT Project
 
-🖼️ Previeew Image
+🖼️ Preview Image
 ![Preview Image1](Image2.png)
 ![Preview Image2](Image.png)
 
